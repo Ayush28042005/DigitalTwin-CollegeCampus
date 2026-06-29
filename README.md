@@ -66,14 +66,14 @@ Digital-Twin-College-Campus/
 python main.py
 ```
 
-No external libraries required. Just Python 3.x!
+No external libraries required.
 
 ---
 
 ## Menu Options
 
 ```
-=== Digital Twin - College Campus ===
+Digital Twin - College Campus:
 1.  Add Classroom
 2.  Add Laboratory
 3.  Add Student
