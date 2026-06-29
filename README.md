@@ -1,10 +1,10 @@
-# 🏫 Digital Twin of a College Campus
+# Digital Twin of a College Campus
 
 A Python-based command-line application that creates a Digital Twin of a college campus. It models buildings, classrooms, laboratories, students, and faculty using all 4 pillars of Object Oriented Programming.
 
 ---
 
-## ✨ Features
+## Features
 
 - Add classrooms with subject and capacity
 - Add laboratories with type and equipment
@@ -18,7 +18,7 @@ A Python-based command-line application that creates a Digital Twin of a college
 
 ---
 
-## 🏗️ Class Hierarchy
+## Class Hierarchy
 
 ```
 CampusEntity (Abstract Base Class)
@@ -34,7 +34,7 @@ CampusEntity (Abstract Base Class)
 
 ---
 
-## 🧠 OOP Pillars Used
+## OOP Pillars Used
 
 | Pillar | Where Used |
 |---|---|
@@ -45,7 +45,7 @@ CampusEntity (Abstract Base Class)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Digital-Twin-College-Campus/
@@ -60,7 +60,7 @@ Digital-Twin-College-Campus/
 
 ---
 
-## 🚀 How To Run
+## How To Run
 
 ```bash
 python main.py
@@ -70,7 +70,7 @@ No external libraries required. Just Python 3.x!
 
 ---
 
-## 📋 Menu Options
+## Menu Options
 
 ```
 === Digital Twin - College Campus ===
@@ -88,7 +88,7 @@ No external libraries required. Just Python 3.x!
 
 ---
 
-## 🔬 Polymorphism Example
+## Polymorphism Example
 
 ```python
 # Same method name, different behaviour!
@@ -101,7 +101,7 @@ faculty.get_role()          # Returns: "Faculty"
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Ayush Saini**
-B.Tech CSE-AIML | 3rd Year
+
