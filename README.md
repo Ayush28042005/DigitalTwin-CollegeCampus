@@ -1,6 +1,6 @@
 # Digital Twin of a College Campus
 
-A Python-based command-line application that creates a Digital Twin of a college campus. It models buildings, classrooms, laboratories, students, and faculty using all 4 pillars of Object Oriented Programming.
+A Python-based command-line application that creates a Digital Twin of a college campus. It models buildings, classrooms, laboratories, students and faculty using all 4 pillars of Object Oriented Programming.
 
 ---
 
