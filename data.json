@@ -1,0 +1,89 @@
+{
+    "buildings": [
+        {
+            "entity_id": "KC402",
+            "name": "3BAIML",
+            "capacity": 50,
+            "current_occupants": [
+                "S001"
+            ],
+            "type": "classroom",
+            "subject": "Maths",
+            "attendance": {
+                "29-06-2026": [
+                    "S001"
+                ]
+            }
+        },
+        {
+            "entity_id": "KC404",
+            "name": "3CAIML",
+            "capacity": 52,
+            "current_occupants": [
+                "s002"
+            ],
+            "type": "classroom",
+            "subject": "OOPS",
+            "attendance": {
+                "29-06-2026": [
+                    "s002"
+                ]
+            }
+        },
+        {
+            "entity_id": "LOO1",
+            "name": "Computer Lab",
+            "capacity": 30,
+            "current_occupants": [],
+            "type": "laboratory",
+            "lab_type": "Computer",
+            "equipment": []
+        }
+    ],
+    "persons": [
+        {
+            "entity_id": "F001",
+            "name": "D.J. Sir",
+            "age": 35,
+            "email": "D.j.@abes.ac.in",
+            "employee_id": "EMP001",
+            "department": "CSE-AIML",
+            "assigned_classrooms": [],
+            "type": "faculty"
+        },
+        {
+            "entity_id": "S001",
+            "name": "Ayush",
+            "age": 21,
+            "email": "ayushssaini110@gmail.com",
+            "roll_number": "59",
+            "semester": 5,
+            "enrolled_classrooms": [
+                "KC402"
+            ],
+            "attendance_record": {
+                "29-06-2026": [
+                    "KC402"
+                ]
+            },
+            "type": "student"
+        },
+        {
+            "entity_id": "s002",
+            "name": "Ansh",
+            "age": 20,
+            "email": "anshgoel298@gmail.com",
+            "roll_number": "38",
+            "semester": 5,
+            "enrolled_classrooms": [
+                "KC404"
+            ],
+            "attendance_record": {
+                "29-06-2026": [
+                    "KC404"
+                ]
+            },
+            "type": "student"
+        }
+    ]
+}
